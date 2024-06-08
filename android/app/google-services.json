@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304617441744",
+    "project_id": "imkkelompok5-81f42",
+    "storage_bucket": "imkkelompok5-81f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304617441744:android:4ab17f58c9f03741a0d1d5",
+        "android_client_info": {
+          "package_name": "com.mycompany.imk5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFporYxL0nHalKgxbqJpokVp9VzGoDCYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
